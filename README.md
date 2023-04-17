@@ -16,6 +16,8 @@ Aprendizado: tratamento nos dados conectados e criar medidas / P & R / Performan
 
 Fiz a arte do dashboard no [Canva](https://www.canva.com) 😉
 
+Publicação no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7024451506003189760/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7024451506003189760%29)!
+
 <h1 align="center">Meu Dashboard produzido</h1>
 <p dir="auto"><img src="https://github.com/brunabutten/power_BI_aluraRecursosVisuais/blob/main/Power%20BI%20explorando%20recursos%20visuais/AluraRecursosVisuais.png" width="100%" style="max-width: 100%;"></p>
 
